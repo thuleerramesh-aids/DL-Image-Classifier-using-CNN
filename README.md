@@ -37,9 +37,9 @@ Predict the digit for a selected test image and display both the actual and pred
 
 ## PROGRAM
 
-### Name: VAISHNAVI S
+### Name: THULEER R
 
-### Register Number: 212225230289
+### Register Number: 212225230285
 
 ```
 import pandas as pd
